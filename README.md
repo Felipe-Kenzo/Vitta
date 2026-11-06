@@ -8,9 +8,9 @@
 
 | Nome | RM |
 |------|----|
-| _Nome completo 1_ | _RM_ |
-| _Nome completo 2 (se houver)_ | _RM_ |
-| _Nome completo 3 (se houver)_ | _RM_ |
+| _Ana Larissa Perim da Silva | _RM563742_ |
+| _Felipe Kenzo Matsuchita_ | _RM562081_ |
+| _Melissa Ferrer Sartor_ | _RM563589_ |
 
 ## Descrição da solução
 
@@ -25,7 +25,7 @@
 - [x] Foi criada pela equipe
 - [ ] Foi reutilizada de outra disciplina
 - [ ] Foi baseada em um projeto pessoal
-- [ ] Foi baseada em um projeto do GitHub do professor
+- [x] Foi baseada em um projeto do GitHub do professor
 
 ## Tecnologias utilizadas
 
