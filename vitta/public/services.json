@@ -1,0 +1,96 @@
+[
+  {
+    "id": "transporte",
+    "icone": "🚌",
+    "titulo": "Transporte gratuito para quem tem 65 anos ou mais",
+    "resumo": "Como pedir o cartão de gratuidade no transporte público da sua cidade.",
+    "documentos": [
+      "Documento oficial com foto (RG ou CNH)",
+      "CPF",
+      "Comprovante de residência (as regras mudam de cidade para cidade)"
+    ],
+    "passos": [
+      "Procure no site ou pelo telefone da empresa de transporte da sua cidade como pedir o cartão de gratuidade.",
+      "Separe os documentos da lista e leve ao posto de atendimento indicado.",
+      "Faça o cadastro com o atendente e, se necessário, tire uma foto.",
+      "Retire o cartão no posto ou aguarde o aviso de entrega."
+    ],
+    "onde": "Posto de atendimento da empresa de transporte da sua cidade.",
+    "telefone": "Consulte o telefone da empresa de transporte da sua cidade."
+  },
+  {
+    "id": "cartao-sus",
+    "icone": "🏥",
+    "titulo": "Cartão SUS (cadastro de saúde)",
+    "resumo": "Como fazer ou atualizar o cadastro para ser atendido pelo SUS.",
+    "documentos": [
+      "Documento oficial com foto (RG) ou certidão de nascimento/casamento",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "passos": [
+      "Vá até a Unidade Básica de Saúde (UBS) mais próxima da sua casa.",
+      "Diga na recepção que quer fazer ou atualizar o Cartão SUS.",
+      "Entregue os documentos e confira se seus dados estão corretos.",
+      "Guarde o número do seu cartão em um lugar fácil de achar."
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) mais próxima da sua casa.",
+    "telefone": "Disque Saúde: 136 (ligação gratuita)."
+  },
+  {
+    "id": "inss",
+    "icone": "📞",
+    "titulo": "Atendimento do INSS (aposentadoria e benefícios)",
+    "resumo": "Como marcar atendimento ou pedir informações sobre seu benefício.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Senha do gov.br (se for usar o aplicativo Meu INSS)"
+    ],
+    "passos": [
+      "Ligue para o 135 e peça para agendar atendimento ou tirar uma dúvida.",
+      "Se preferir, peça para um familiar ou amigo de confiança ajudar no aplicativo Meu INSS.",
+      "Anote o dia, o horário e o local do atendimento.",
+      "No dia, leve os documentos e chegue com alguma antecedência."
+    ],
+    "onde": "Agência do INSS indicada no agendamento ou aplicativo Meu INSS.",
+    "telefone": "Central 135."
+  },
+  {
+    "id": "bpc",
+    "icone": "🤝",
+    "titulo": "BPC: benefício para idosos com renda familiar baixa",
+    "resumo": "Apoio para quem tem 65 anos ou mais e renda por pessoa da família de até 1/4 do salário mínimo.",
+    "documentos": [
+      "Documento oficial com foto e CPF",
+      "Comprovante de residência",
+      "Cadastro Único (CadÚnico) atualizado"
+    ],
+    "passos": [
+      "Procure o CRAS do seu bairro e peça para fazer ou atualizar o CadÚnico.",
+      "Depois de cadastrado, peça o BPC pelo aplicativo Meu INSS ou ligando para o 135.",
+      "Acompanhe o andamento do pedido e atenda as convocações.",
+      "Em caso de dúvida, volte ao CRAS para pedir orientação."
+    ],
+    "onde": "CRAS do seu bairro (para o CadÚnico) e INSS (para o pedido do benefício).",
+    "telefone": "Central 135."
+  },
+  {
+    "id": "denuncia",
+    "icone": "🛡️",
+    "titulo": "Denunciar maus-tratos ou violência contra pessoa idosa",
+    "resumo": "Canal gratuito e funcionando todos os dias para pedir ajuda.",
+    "documentos": [
+      "Nenhum documento é necessário para ligar",
+      "Se puder, anote o endereço, o nome da pessoa e o que aconteceu"
+    ],
+    "passos": [
+      "Ligue para o 100, o Disque Direitos Humanos.",
+      "Conte o que aconteceu e onde. Você pode pedir para não se identificar.",
+      "Em caso de perigo imediato, ligue também para a polícia (190).",
+      "Guarde o número do protocolo se a atendente informar."
+    ],
+    "onde": "Por telefone, de qualquer lugar.",
+    "telefone": "Disque 100 (gratuito)."
+  }
+]

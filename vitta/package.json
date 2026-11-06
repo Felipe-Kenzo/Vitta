@@ -1,0 +1,13 @@
+{
+  "name": "vitta",
+  "version": "1.0.0",
+  "description": "Vitta - CitizenTech que ajuda idosos a acessar servicos publicos com passo a passo simples",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
